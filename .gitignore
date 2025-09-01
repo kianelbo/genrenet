@@ -1,7 +1,12 @@
+# Mac
+*.DS_Store
+._*
+
 # JetBrains WebStorm project folder
 .idea/
 
 # saved models, csv and spectrogram dataset
+data/
 save/
 
 # tensorboard logs
