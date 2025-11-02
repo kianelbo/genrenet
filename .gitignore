@@ -8,6 +8,7 @@
 # saved models, csv and spectrogram dataset
 data/
 save/
+*.zip
 
 # tensorboard logs
 logs/
