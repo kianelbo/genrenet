@@ -1,4 +1,4 @@
-# Music-Classification
+# genrenet
 The ultimate music genre classifier using both acoustic features and spectrogram
 
 ## Dataset
